@@ -1,7 +1,7 @@
 
 # About Me
 
-![Profile Picture]([url_to_your_image.jpg](https://imagenes.elpais.com/resizer/CWf9L5ei5QKmXCUM4R1dyQHuDYk=/1200x0/filters:focal(1974x1237:1984x1247)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/EGNFOHOFXRFF3GKXKFN55HL3FQ.jpg))
+![Profile Picture](https://imagenes.elpais.com/resizer/CWf9L5ei5QKmXCUM4R1dyQHuDYk=/1200x0/filters:focal(1974x1237:1984x1247)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/EGNFOHOFXRFF3GKXKFN55HL3FQ.jpg)
 
 Hello there! 👋 I'm Rusiia, a President. . I am passionate about sambo and hockey, and I love GitHub and Python. 
 
